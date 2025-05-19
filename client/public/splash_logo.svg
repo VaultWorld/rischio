@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="splash-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Background" fill="#F0B90B" cx="100" cy="100" r="80"></circle>
+        <path d="M100,60 L120,80 L80,80 L100,60 Z M120,120 L100,140 L80,120 L120,120 Z M130,90 L150,110 L130,130 L130,90 Z M70,90 L70,130 L50,110 L70,90 Z M100,75 L120,95 L100,115 L80,95 L100,75 Z" id="Logo" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <text id="App-Name" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" fill="#FFFFFF">
+            <tspan x="40" y="175">Calc. Interesse</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+.risk-rate-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.risk-rate-container input {
+  flex: 1;
+}
+
+.button-calculate {
+  background-color: var(--green);
+  color: var(--background);
+  font-weight: 600;
+  white-space: nowrap;
+}

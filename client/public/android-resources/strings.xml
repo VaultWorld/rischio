@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+    Questo file va inserito in android/app/src/main/res/values/strings.xml
+    dopo aver generato il progetto con Capacitor
+    -->
+    
+    <!-- Nome dell'applicazione -->
+    <string name="app_name">Calcolatore Interesse Rischio</string>
+    <string name="title_activity_main">Calcolatore Interesse Rischio</string>
+    <string name="package_name">com.replit.calcolatoreinteresserischio</string>
+    <string name="custom_url_scheme">com.replit.calcolatoreinteresserischio</string>
+    
+    <!-- Testi dell'applicazione -->
+    <string name="welcome_message">Benvenuto nel Calcolatore</string>
+    <string name="calculator_header">Calcolatore dell\'Interesse di Rischio</string>
+    <string name="calculator_description">Calcola i tuoi guadagni potenziali con il nostro calcolatore di interesse composto</string>
+    
+    <!-- Etichette dei campi -->
+    <string name="initial_capital">Capitale Iniziale</string>
+    <string name="time_periods">Periodi</string>
+    <string name="gain_rate">Tasso di Guadagno (%)</string>
+    <string name="risk_rate">Tasso di Rischio (%)</string>
+    
+    <!-- Pulsanti -->
+    <string name="calculate_button">Calcola</string>
+    <string name="reset_button">Azzera</string>
+    <string name="share_button">Condividi</string>
+    <string name="download_button">Scarica</string>
+</resources>

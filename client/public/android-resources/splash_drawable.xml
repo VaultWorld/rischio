@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 
+    Questo file va inserito in android/app/src/main/res/drawable/splash.xml
+    dopo aver generato il progetto con Capacitor
+    -->
+    
+    <!-- Colore di sfondo -->
+    <item android:drawable="@color/colorPrimaryDark" />
+    
+    <!-- Logo dell'app centrato -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_logo" />
+    </item>
+</layer-list>

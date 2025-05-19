@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+    Questo file va inserito in android/app/src/main/res/values/colors.xml
+    dopo aver generato il progetto con Capacitor
+    -->
+    
+    <!-- Colori principali in stile PancakeSwap -->
+    <color name="colorPrimary">#F0B90B</color>
+    <color name="colorPrimaryDark">#191326</color>
+    <color name="colorAccent">#F0B90B</color>
+    
+    <!-- Altri colori standard -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Colori aggiuntivi dell'interfaccia -->
+    <color name="background">#191326</color>
+    <color name="card_background">#372F47</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B8ADD2</color>
+</resources>
